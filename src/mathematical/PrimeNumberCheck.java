@@ -30,5 +30,6 @@ public class PrimeNumberCheck {
         }
 
         sc.close();
+        
     }
 }
