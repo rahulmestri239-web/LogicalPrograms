@@ -11,7 +11,7 @@ public class SortArray {
                 .sorted()
                 .forEach(num -> System.out.print(num + " "));
 
-
+      System.out.println();
         int[] a = {5, 2, 8, 1, 3};   //desending
 
         Arrays.stream(a)
